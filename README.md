@@ -3,7 +3,7 @@ Mini web app that calculates time or duration to scientific decimal format
 # Live demo
 https://ihatem.github.io/Time-to-decimal/
 # Screenshot 
-![App screenshot!](https://github.com/ihatem/quote-generator/raw/master/src/images/time-to-decimal-sketch.png)
+![App screenshot!](https://raw.githubusercontent.com/ihatem/Time-to-decimal/master/src/images/time-to-decimal-sketch.png)
 # Install 
 install dependencies
 ```sh 
