@@ -35,8 +35,8 @@ const optimizeCss = new OptimizeCssAssetsPlugin({
 });
 
 // Clean webpack
-const clean = new CleanWebpackPlugin(['dist'], {
-  root: config.root,
+const clean = new CleanWebpackPlugin({
+  root: config.root
 });
 
 // Extract CSS
